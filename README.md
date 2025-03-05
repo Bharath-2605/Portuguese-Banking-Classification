@@ -61,9 +61,8 @@ pip install -r requirements.txt
 ---
 
 ## 📊 Results & Insights
-- The best-performing model achieved **XX% accuracy** with an **F1-score of YY%**.
+- The best-performing model achieved **90% accuracy** with an **F1-score of 49%**.
 - Feature importance analysis showed that **customer tenure and previous engagement** were key predictors.
-- The model effectively reduced unnecessary calls by **ZZ%**, optimizing marketing efficiency.
 
 ---
 
@@ -83,4 +82,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 ---
-✉️ For queries, reach out at [your email/LinkedIn].
+✉️ For queries, reach out at bharathbollineni.2605@gmail.com/www.linkedin.com/in/bharathbollineni.
